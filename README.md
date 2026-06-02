@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-comfort/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sweet Comfort](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-comfort/) |
+| **Get License** | [Get a Licensing Quote for Sweet Comfort](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-comfort/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the pull across the room
+> Shadows dancing while the embers bloom
+> Pull me closer in this fading light
+> Let me be your comfort for the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
